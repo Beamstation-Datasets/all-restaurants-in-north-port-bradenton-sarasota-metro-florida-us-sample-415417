@@ -1,6 +1,6 @@
 # All Restaurants in North Port-Bradenton-Sarasota (Metro), Florida, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 125 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `415417` |
 | Location | North Port-Bradenton-Sarasota, FL |
 | Category | Restaurants |
-| Full dataset size | 1,132 records |
-| Free sample size | 25 records (2.21%) |
-| Last export | 2026-03-31T15:52:09.961197+00:00 |
+| Full dataset size | 1,254 records |
+| Free sample size | 125 records (9.97%) |
+| Last export | 2026-04-14T16:44:45.418234+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-north-port-bradenton-sarasota-metro-florida-us-sample-415417/releases/download/sample-latest/beamstation_415417_restaurants-us-northportbradentonsarasotafl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
