@@ -1,12 +1,12 @@
 {
-  "export_job_id": "60da88f3-93a5-4757-8962-be8a557d8094",
+  "export_job_id": "f2cd0e2a-2705-4987-9676-c2bd9964f926",
   "id_short": 415417,
-  "published_at": "2026-04-17T19:27:55Z",
+  "published_at": "2026-04-21T19:23:43Z",
   "repo_name": "all-restaurants-in-north-port-bradenton-sarasota-metro-florida-us-sample-415417",
   "sample_asset_name": "beamstation_415417_restaurants-us-northportbradentonsarasotafl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/415417/beamstation_415417_restaurants-us-northportbradentonsarasotafl_SAMPLE_DIST.csv",
-  "sample_records": 125,
-  "sample_sha256": "c963dfb6c8af0a3c71b2d16bf7ad8287d95987c064c767882c69e217ac236d71",
-  "sample_size_bytes": 467733,
-  "total_records": 1254
+  "sample_records": 71,
+  "sample_sha256": "ebe2982c1d2110072a21b141a893b8dbb81f7d7b199b981461c517d10e7b48cb",
+  "sample_size_bytes": 271482,
+  "total_records": 716
 }
